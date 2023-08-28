@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mesrikanthreddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mesrikanthreddy/mesrikanthreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Srikanth Bollampally. I am an Entrepreneur, Technology Enthusiast, Yogi, GEO Politics, and Hiker, and I am Interested in learning and improving coding.
+- 👀 I’m interested in exploring new things 
+- 🌱 I’m currently learning how to keep updated with new Technologies in the DevOps Space 
+- 💞️ I’m looking to collaborate on Technology Talk, EdTech, Entrepreneurship 
+- 📫 How to reach me ... Twitter @mrbollampally
