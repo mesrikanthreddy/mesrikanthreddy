@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! I'm [Your Name], a passionate [Your Profession] with expertise in [Key Skills/Technologies]. This repository showcases my projects, experiences, and the technologies I've worked with.
+Welcome to my portfolio! I'm Srikanth Bollampally, a passionate Software Developer with expertise in AI/ML with Fullstack, Cloud, SRE and DevOps. This repository showcases my projects, experiences, and the technologies I've worked with.
 
 ## Table of Contents
 
@@ -16,9 +16,9 @@ I am a [brief introduction about yourself, your background, and what drives you]
 
 ## Skills
 
-- **Languages**: Java, Python, JavaScript, [add more languages]
-- **Frameworks**: Flask, React, [add more frameworks]
-- **Tools**: Git, Docker, Kubernetes, [add more tools]
+- **Languages**: Java, Python, JavaScript, Java, .Net, 
+- **Frameworks**: Flask, React
+- **Tools**: Git,GitHub, Docker, Kubernetes, CICD, 
 - **Cloud Platforms**: AWS, Azure, GCP
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
@@ -27,8 +27,8 @@ I am a [brief introduction about yourself, your background, and what drives you]
 Here are some of my notable projects:
 
 ### [Project 1 Name](link-to-project-1)
-- **Description**: A brief description of the project.
-- **Technologies Used**: [list technologies]
+- **Description**: Senior Site Reliability Engineer – Consultant at Oak Street Health
+- **Technologies Used**: [Grafana, Prometheus, Azure Monitor, .NET, Azure DevOps, Azure Cloud, MongoDB, K6, JUnit, Unix, Linux, Windows]
 - **Features**: [highlight key features]
 - **GitHub Repository**: [link]
 
@@ -54,9 +54,7 @@ Check out my blog for insights on [topics you write about, e.g., technology, pro
 
 I would love to hear from you! Feel free to reach out:
 
-- **Email**: [your_email@example.com]
-- **LinkedIn**: [your_linkedin_profile]
-- **GitHub**: [your_github_profile]
+- **Email**: [bsrikanthrdd@gmail.com]
 - **Website**: [link to your portfolio website]
 
 ---
