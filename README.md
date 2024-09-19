@@ -33,7 +33,7 @@ Here are some of my notable projects:
 
 
 ### [Project 2 Name](link-to-project-2)
-- **Description**: DevOps Lead at Infosys Limited, CA	
+- **Description**: DevOps Lead at Infosys Limited
 - **Technologies Used**: GCP, AWS, Azure, CICD (Jenkins, Sonarqube, Artifactory), Kubernetes, Docker, Git, Bitbucket, 
 
 ### [Project 3 Name](link-to-project-3)
