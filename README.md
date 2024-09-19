@@ -28,9 +28,17 @@ Here are some of my notable projects:
 
 ### [Project 1 Name](link-to-project-1)
 - **Description**: Senior Site Reliability Engineer – Consultant at Oak Street Health
-- **Technologies Used**: [Grafana, Prometheus, Azure Monitor, .NET, Azure DevOps, Azure Cloud, MongoDB, K6, JUnit, Unix, Linux, Windows]
-- **Features**: [highlight key features]
-- **GitHub Repository**: [link]
+- **Technologies Used**: Grafana, Prometheus, Azure Monitor, .NET, Azure DevOps, Azure Cloud, MongoDB, K6, JUnit, Unix, Linux, Windows
+- ** Roles and Responsibilities**:
+- •	Implemented end-to-end monitoring solutions and incident management practices, reducing the mean time to detect and resolve critical incidents by 30%.
+•	Defined and maintained SLAs, SLIs, and SLOs to guarantee exceptional service reliability. Proactively identified performance bottlenecks eliminated manual toil, and sustained a consistent 99.99% service uptime, optimizing system performance and enhancing operational efficiency. This approach significantly boosted user satisfaction and trust in service reliability.
+•	Integrated Kubernetes monitoring with Azure Monitor and Grafana, leading to a 25% reduction in downtime. Leveraged multiple data sources, including Loki, Alert Manager, Tempo, Graphite, and InfluxDB, to ensure comprehensive observability and proactive issue resolution.
+•	Implemented comprehensive Unix system monitoring using tools like SAR (System Activity Reporter) to track CPU, memory, disk I/O, and network activity, ensuring optimal performance and proactive issue resolution.
+•	Enhanced observability for Kafka and MongoDB environments using Azure Monitor and third-party tools, resulting in a 20% improvement in system performance and faster root cause analysis during incidents.
+•	Set up and managed Kubernetes clusters on Linux-based environments, utilizing Azure Monitor and Prometheus to monitor containerized applications, maintaining high availability for cloud-native apps.
+•	Worked closely with data scientists and ML engineers to ensure reliable model training and inference in production, providing operational support, tuning infrastructure, and ensuring compliance with security standards.
+![image](https://github.com/user-attachments/assets/2db93302-cba2-4590-a551-0a4d9c6b9ffa)
+
 
 ### [Project 2 Name](link-to-project-2)
 - **Description**: A brief description of the project.
