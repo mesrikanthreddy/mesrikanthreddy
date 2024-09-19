@@ -52,7 +52,7 @@ Check out my blog for insights on [topics you write about, e.g., technology, pro
 
 I would love to hear from you! Feel free to reach out:
 
-- **Email**: [bsrikanthrdd@gmail.com]
+- **Email**: bsrikanthrdd@gmail.com
 - **Website**: [link to your portfolio website]
 
 ---
