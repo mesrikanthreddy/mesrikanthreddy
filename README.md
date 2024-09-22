@@ -24,23 +24,9 @@ I am a [brief introduction about yourself, your background, and what drives you]
 
 ## Projects
 
-Here are some of my notable projects:
+Here are some of my notable Clients I Worked so far:
+Duke Energy, USPTO, Qualcomm, Sony, Cisco, SitusAMC, BHP, United Airlines, UHG, OSH etc
 
-### [Project 1 Name](link-to-project-1)
-- **Description**: Senior Site Reliability Engineer – Consultant at Oak Street Health
-- **Technologies Used**: Grafana, Prometheus, Azure Monitor, .NET, Azure DevOps, Azure Cloud, MongoDB, K6, JUnit, Unix, Linux, Windows
-
-
-
-### [Project 2 Name](link-to-project-2)
-- **Description**: DevOps Lead at Infosys Limited
-- **Technologies Used**: GCP, AWS, Azure, CICD (Jenkins, Sonarqube, Artifactory), Kubernetes, Docker, Git, Bitbucket, 
-
-### [Project 3 Name](link-to-project-3)
-- **Description**: A brief description of the project.
-- **Technologies Used**: [list technologies]
-- **Features**: [highlight key features]
-- **GitHub Repository**: [link]
 
 ## Blog
 
