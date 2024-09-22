@@ -12,12 +12,12 @@ Welcome to my portfolio! I'm Srikanth Bollampally, a passionate Software Develop
 
 ## About Me
 
-I am a [brief introduction about yourself, your background, and what drives you]. I love to create [mention what you enjoy doing, e.g., web applications, data analysis, etc.], and I'm always eager to learn new technologies.
+I am a Srikanth Bollampally working DevOps, SRE and Cloud Engineer with AI/ML experience. I love to create web applications, frontend, backend cloud technologies, deployments, application support like java, .NET and Python, and I'm always eager to learn new technologies.
 
 ## Skills
 
 - **Languages**: Java, Python, JavaScript, Java, .Net, 
-- **Frameworks**: Flask, React
+- **Frameworks**: Flask, React, PyTorch, TecsorFlow
 - **Tools**: Git,GitHub, Docker, Kubernetes, CICD, 
 - **Cloud Platforms**: AWS, Azure, GCP
 - **Databases**: MySQL, PostgreSQL, MongoDB
@@ -27,20 +27,12 @@ I am a [brief introduction about yourself, your background, and what drives you]
 Here are some of my notable Clients I Worked so far:
 Duke Energy, USPTO, Qualcomm, Sony, Cisco, SitusAMC, BHP, United Airlines, UHG, OSH etc
 
-
 ## Blog
-
-Check out my blog for insights on [topics you write about, e.g., technology, programming, etc.]:
-- [Blog Post 1 Title](link-to-blog-post-1)
-- [Blog Post 2 Title](link-to-blog-post-2)
 
 ## Contact
 
 I would love to hear from you! Feel free to reach out:
 
 - **Email**: bsrikanthrdd@gmail.com
-- **Website**: [link to your portfolio website]
-
----
 
 Thank you for visiting my portfolio! If you have any questions or would like to collaborate, don't hesitate to get in touch.
