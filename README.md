@@ -1,4 +1,4 @@
-![Header Image](https://github.com/mesrikanthreddy/mesrikanthreddy/assets/banner.png)
+![Header Image](https://github.com/mesrikanthreddy/blob/main/assets/banner.png)
 
 
 ## 👋 Hello, I'm Srikanth Reddy!
