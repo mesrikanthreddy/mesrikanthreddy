@@ -1,4 +1,3 @@
-![Header Image](https://github.com/mesrikanthreddy/mesrikanthreddy/ban.png)
 ## 👋 Hello, I'm Srikanth Reddy!
 ### Cloud | DevOps | SRE | Machine Learning and Aritifical Intelligence Enthusiast
 
