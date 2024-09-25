@@ -1,4 +1,5 @@
-![Header Image](https://linktoyourimage.com/banner.png)
+![Header Image](https://github.com/mesrikanthreddy/mesrikanthreddy/blob/main/assets/banner.png)
+
 
 ## 👋 Hello, I'm Srikanth Reddy!
 ### Cloud | DevOps | SRE | Machine Learning Enthusiast
