@@ -1,8 +1,6 @@
-![Header Image](https://github.com/mesrikanthreddy/blob/main/assets/banner.png)
-
-
+![Header Image](https://github.com/mesrikanthreddy/mesrikanthreddy/ban.png)
 ## 👋 Hello, I'm Srikanth Reddy!
-### Cloud | DevOps | SRE | Machine Learning Enthusiast
+### Cloud | DevOps | SRE | Machine Learning and Aritifical Intelligence Enthusiast
 
 I'm passionate about transforming technology with Cloud, DevOps practices, and Machine Learning. With over 12 years of experience in various domains, I enjoy building reliable, scalable, and secure systems. Currently exploring the intersection of SRE and AI!
 
