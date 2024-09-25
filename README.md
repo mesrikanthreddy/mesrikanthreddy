@@ -68,7 +68,7 @@ Analyzed cloud resource usage with AWS Trusted Advisor to implement cost-saving 
 
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/bsrikanth-reddy/)
-- [Twitter](https://twitter.com/mrsrikanthreddy)
+- [Twitter](https://twitter.com/mrbollampally)
 - [Email](mailto:bsrikanthrdd@gmail.com)
 
 ---
