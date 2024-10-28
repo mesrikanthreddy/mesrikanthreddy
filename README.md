@@ -1,9 +1,11 @@
 ## 👋 Hello, I'm Srikanth Reddy!
-### Cloud | DevOps | SRE | Machine Learning and Aritifical Intelligence Enthusiast
+### Cloud | DevOps | SRE | Machine Learning and Artificial Intelligence Enthusiast
 
 I'm passionate about transforming technology with Cloud, DevOps practices, and Machine Learning. With over 12 years of experience in various domains, I enjoy building reliable, scalable, and secure systems. Currently exploring the intersection of SRE and AI!
 
 ---
+## Clients Supported
+Duke Energy, USPTO, Qualcomm, CMS, Cisco, BHP, United Airlines, Oak Street Health
 
 ## 📊 GitHub Stats
 ![Srikanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesrikanthreddy&show_icons=true&theme=radical)
