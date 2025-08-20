@@ -11,7 +11,7 @@
 <p align="center">
   <em>Transforming technology with Cloud, DevOps practices, and Machine Learning</em><br>
   <strong>12+ years</strong> of experience building reliable, scalable, and secure systems<br>
-  Currently exploring the intersection of <strong>SRE and AI</strong>
+  Currently exploring the Generative AI, Agentic AI, Multicloud Strategies, AWS AI/Ml Services, MLOps </strong>
 </p>
 
 <div align="center">
