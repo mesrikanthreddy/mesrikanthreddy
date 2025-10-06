@@ -6,7 +6,7 @@
   <img src="https://github.com/mesrikanthreddy/mesrikanthreddy/blob/main/banner.gif" alt="Banner" width="100%" />
 </div>
 
-<h3 align="center">🚀 Passionate Cloud & DevOps Engineer | SRE | ML Enthusiast</h3>
+<h3 align="center">🚀 Passionate Cloud & DevOps Developer | SRE | ML Enthusiast</h3>
 
 <p align="center">
   <em>Transforming technology with Cloud, DevOps practices, and Machine Learning</em><br>
