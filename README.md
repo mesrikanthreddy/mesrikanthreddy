@@ -26,5 +26,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesrikanthreddy&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165" />
+  <img src="https://img.shields.io/github/followers/mesrikanthreddy?style=flat-square&label=Followers&color=e3a857&labelColor=111827" alt="Followers" />
+  <img src="https://img.shields.io/badge/Public_Repos-14-e3a857?style=flat-square&labelColor=111827" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Contributions_(last_year)-324-e3a857?style=flat-square&labelColor=111827" alt="Contributions last year" />
+  <img src="https://img.shields.io/badge/Stars_Earned-2-e3a857?style=flat-square&labelColor=111827" alt="Stars earned" />
 </p>
